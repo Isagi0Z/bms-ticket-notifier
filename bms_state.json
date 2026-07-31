@@ -1,44 +1,12 @@
 {
   "shows": {
-    "PCAN|42319|20260731|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "06:30 PM",
-      "date": "20260731",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "0"
-    },
-    "PCAN|42319|20260731|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "06:30 PM",
-      "date": "20260731",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
-    },
-    "PCAN|42323|20260731|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "06:50 PM",
-      "date": "20260731",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "0"
-    },
-    "PCAN|42323|20260731|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "06:50 PM",
-      "date": "20260731",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
-    },
     "PCAN|42324|20260731|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "10:00 PM",
       "date": "20260731",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|42324|20260731|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
