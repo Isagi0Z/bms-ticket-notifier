@@ -1,22 +1,5 @@
 {
-  "shows": {
-    "PCAN|42324|20260731|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "10:00 PM",
-      "date": "20260731",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "1"
-    },
-    "PCAN|42324|20260731|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "10:00 PM",
-      "date": "20260731",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
-    }
-  },
+  "shows": {},
   "dates": {
     "20260731": "BOOKABLE",
     "20260801": "AVAILABLE",
