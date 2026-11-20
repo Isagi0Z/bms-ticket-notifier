@@ -63,11 +63,75 @@
       "cat": "CLASSIC",
       "price": "121.74",
       "status": "0"
+    },
+    "PCAN|48536|20261218|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "01:05 PM",
+      "date": "20261218",
+      "cat": "PRIME",
+      "price": "270.98",
+      "status": "0"
+    },
+    "PCAN|48536|20261218|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "01:05 PM",
+      "date": "20261218",
+      "cat": "CLASSIC",
+      "price": "121.74",
+      "status": "0"
+    },
+    "PCAN|48537|20261218|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "04:35 PM",
+      "date": "20261218",
+      "cat": "PRIME",
+      "price": "270.98",
+      "status": "0"
+    },
+    "PCAN|48537|20261218|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "04:35 PM",
+      "date": "20261218",
+      "cat": "CLASSIC",
+      "price": "121.74",
+      "status": "0"
+    },
+    "PCAN|48538|20261218|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "08:05 PM",
+      "date": "20261218",
+      "cat": "PRIME",
+      "price": "270.98",
+      "status": "0"
+    },
+    "PCAN|48538|20261218|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "08:05 PM",
+      "date": "20261218",
+      "cat": "CLASSIC",
+      "price": "121.74",
+      "status": "0"
+    },
+    "PCAN|48539|20261218|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "11:35 PM",
+      "date": "20261218",
+      "cat": "PRIME",
+      "price": "270.98",
+      "status": "0"
+    },
+    "PCAN|48539|20261218|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "11:35 PM",
+      "date": "20261218",
+      "cat": "CLASSIC",
+      "price": "121.74",
+      "status": "0"
     }
   },
   "dates": {
-    "20261217": "BOOKABLE",
-    "20261218": "AVAILABLE",
+    "20261217": "AVAILABLE",
+    "20261218": "BOOKABLE",
     "20261219": "AVAILABLE",
     "20261220": "AVAILABLE",
     "20261221": "NOT_OPEN",
